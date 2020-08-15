@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Shouvit's github stats](https://github-readme-stats.vercel.app/api?username=shaw8wit&show_icons=true&theme=merko)
+
+### Spotify Playing 🎧
+[<img src="https://novatorem.shaw8wit.vercel.app/api/spotify-playing" alt="Shouvit's Playing" width="350" />](https://open.spotify.com/user/b96c901d2572426fa23b8ba24be14350)
