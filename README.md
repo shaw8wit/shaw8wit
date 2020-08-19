@@ -1,3 +1,4 @@
+<br>
 <h1 align="center">Hi 👋, I'm Shouvit Pradhan</h1>
 
 <p align="center">
@@ -37,3 +38,4 @@
 <br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaw8wit&show_icons=true" alt="shaw8wit" /></p>
+<br>
