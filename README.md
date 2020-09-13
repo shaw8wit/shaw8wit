@@ -37,5 +37,5 @@
 
 <br>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaw8wit&show_icons=true" alt="shaw8wit" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaw8wit&count_private=true&include_all_commits=true&show_icons=true" alt="shaw8wit" /></p>
 <br>
