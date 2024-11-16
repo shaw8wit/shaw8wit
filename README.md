@@ -9,7 +9,3 @@
   
   <img alt="shaw8wit's most used languages on GitHub" title="not an indicator of skill in a language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaw8wit&langs_count=8&layout=compact&theme=merko&hide_border=true&hide=jupyter%20notebook,html" /> 
 </p>
-
-<p align="center">
-  <img alt="shaw8wit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=shaw8wit&bg_color=0a0f0b&color=b7d364&line=68b587&point=abd200&hide_border=true" />
-</p>
